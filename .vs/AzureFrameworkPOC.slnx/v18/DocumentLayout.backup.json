@@ -1,0 +1,422 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\2409486\\Repositories\\AzureFrameworkPOC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D53ED368-EF24-3609-50FC-F04789D924E6}|src\\AzureFrameworkPOC.AI\\AzureFrameworkPOC.AI.csproj|c:\\users\\2409486\\repositories\\azureframeworkpoc\\src\\azureframeworkpoc.ai\\providers\\foundrylocal\\foundrylocalchatclientprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D53ED368-EF24-3609-50FC-F04789D924E6}|src\\AzureFrameworkPOC.AI\\AzureFrameworkPOC.AI.csproj|solutionrelative:src\\azureframeworkpoc.ai\\providers\\foundrylocal\\foundrylocalchatclientprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D53ED368-EF24-3609-50FC-F04789D924E6}|src\\AzureFrameworkPOC.AI\\AzureFrameworkPOC.AI.csproj|c:\\users\\2409486\\repositories\\azureframeworkpoc\\src\\azureframeworkpoc.ai\\providers\\openai\\openaichatclientprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D53ED368-EF24-3609-50FC-F04789D924E6}|src\\AzureFrameworkPOC.AI\\AzureFrameworkPOC.AI.csproj|solutionrelative:src\\azureframeworkpoc.ai\\providers\\openai\\openaichatclientprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D53ED368-EF24-3609-50FC-F04789D924E6}|src\\AzureFrameworkPOC.AI\\AzureFrameworkPOC.AI.csproj|c:\\users\\2409486\\repositories\\azureframeworkpoc\\src\\azureframeworkpoc.ai\\providers\\openai\\openaioptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D53ED368-EF24-3609-50FC-F04789D924E6}|src\\AzureFrameworkPOC.AI\\AzureFrameworkPOC.AI.csproj|solutionrelative:src\\azureframeworkpoc.ai\\providers\\openai\\openaioptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C04673C7-0A08-2150-4253-E36BD917BD12}|src\\AzureFrameworkPOC.Console\\AzureFrameworkPOC.Console.csproj|c:\\users\\2409486\\repositories\\azureframeworkpoc\\src\\azureframeworkpoc.console\\consoleapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C04673C7-0A08-2150-4253-E36BD917BD12}|src\\AzureFrameworkPOC.Console\\AzureFrameworkPOC.Console.csproj|solutionrelative:src\\azureframeworkpoc.console\\consoleapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3585DE8-ECB4-3D79-017D-17A5EFB8D159}|src\\AzureFrameworkPOC.Core\\AzureFrameworkPOC.Core.csproj|c:\\users\\2409486\\repositories\\azureframeworkpoc\\src\\azureframeworkpoc.core\\ai\\ichatclientprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3585DE8-ECB4-3D79-017D-17A5EFB8D159}|src\\AzureFrameworkPOC.Core\\AzureFrameworkPOC.Core.csproj|solutionrelative:src\\azureframeworkpoc.core\\ai\\ichatclientprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C04673C7-0A08-2150-4253-E36BD917BD12}|src\\AzureFrameworkPOC.Console\\AzureFrameworkPOC.Console.csproj|c:\\users\\2409486\\repositories\\azureframeworkpoc\\src\\azureframeworkpoc.console\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C04673C7-0A08-2150-4253-E36BD917BD12}|src\\AzureFrameworkPOC.Console\\AzureFrameworkPOC.Console.csproj|solutionrelative:src\\azureframeworkpoc.console\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3585DE8-ECB4-3D79-017D-17A5EFB8D159}|src\\AzureFrameworkPOC.Core\\AzureFrameworkPOC.Core.csproj|c:\\users\\2409486\\repositories\\azureframeworkpoc\\src\\azureframeworkpoc.core\\repository\\irepositorycontextaccessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3585DE8-ECB4-3D79-017D-17A5EFB8D159}|src\\AzureFrameworkPOC.Core\\AzureFrameworkPOC.Core.csproj|solutionrelative:src\\azureframeworkpoc.core\\repository\\irepositorycontextaccessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96BB8004-7350-2221-DB1A-40AE35CC82EA}|src\\AzureFrameworkPOC.Repository\\AzureFrameworkPOC.Repository.csproj|c:\\users\\2409486\\repositories\\azureframeworkpoc\\src\\azureframeworkpoc.repository\\repositorycontextaccessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96BB8004-7350-2221-DB1A-40AE35CC82EA}|src\\AzureFrameworkPOC.Repository\\AzureFrameworkPOC.Repository.csproj|solutionrelative:src\\azureframeworkpoc.repository\\repositorycontextaccessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D53ED368-EF24-3609-50FC-F04789D924E6}|src\\AzureFrameworkPOC.AI\\AzureFrameworkPOC.AI.csproj|c:\\users\\2409486\\repositories\\azureframeworkpoc\\src\\azureframeworkpoc.ai\\azureframeworkpoc.ai.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D53ED368-EF24-3609-50FC-F04789D924E6}|src\\AzureFrameworkPOC.AI\\AzureFrameworkPOC.AI.csproj|solutionrelative:src\\azureframeworkpoc.ai\\azureframeworkpoc.ai.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED666FEC-AA55-E696-0351-AF42AE3EF7B0}|tests\\AzureFrameworkPOC.EvaluationTests\\AzureFrameworkPOC.EvaluationTests.csproj|c:\\users\\2409486\\repositories\\azureframeworkpoc\\tests\\azureframeworkpoc.evaluationtests\\azureframeworkpoc.evaluationtests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{ED666FEC-AA55-E696-0351-AF42AE3EF7B0}|tests\\AzureFrameworkPOC.EvaluationTests\\AzureFrameworkPOC.EvaluationTests.csproj|solutionrelative:tests\\azureframeworkpoc.evaluationtests\\azureframeworkpoc.evaluationtests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7093F7ED-0507-35A3-28AE-1208CE73BEA8}|src\\AzureFrameworkPOC.Approaches\\AzureFrameworkPOC.Approaches.csproj|c:\\users\\2409486\\repositories\\azureframeworkpoc\\src\\azureframeworkpoc.approaches\\azureframeworkpoc.approaches.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7093F7ED-0507-35A3-28AE-1208CE73BEA8}|src\\AzureFrameworkPOC.Approaches\\AzureFrameworkPOC.Approaches.csproj|solutionrelative:src\\azureframeworkpoc.approaches\\azureframeworkpoc.approaches.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C04673C7-0A08-2150-4253-E36BD917BD12}|src\\AzureFrameworkPOC.Console\\AzureFrameworkPOC.Console.csproj|c:\\users\\2409486\\repositories\\azureframeworkpoc\\src\\azureframeworkpoc.console\\azureframeworkpoc.console.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C04673C7-0A08-2150-4253-E36BD917BD12}|src\\AzureFrameworkPOC.Console\\AzureFrameworkPOC.Console.csproj|solutionrelative:src\\azureframeworkpoc.console\\azureframeworkpoc.console.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C04673C7-0A08-2150-4253-E36BD917BD12}|src\\AzureFrameworkPOC.Console\\AzureFrameworkPOC.Console.csproj|c:\\users\\2409486\\repositories\\azureframeworkpoc\\src\\azureframeworkpoc.console\\commandlineoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C04673C7-0A08-2150-4253-E36BD917BD12}|src\\AzureFrameworkPOC.Console\\AzureFrameworkPOC.Console.csproj|solutionrelative:src\\azureframeworkpoc.console\\commandlineoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D53ED368-EF24-3609-50FC-F04789D924E6}|src\\AzureFrameworkPOC.AI\\AzureFrameworkPOC.AI.csproj|c:\\users\\2409486\\repositories\\azureframeworkpoc\\src\\azureframeworkpoc.ai\\providers\\foundrylocal\\foundrylocaloptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D53ED368-EF24-3609-50FC-F04789D924E6}|src\\AzureFrameworkPOC.AI\\AzureFrameworkPOC.AI.csproj|solutionrelative:src\\azureframeworkpoc.ai\\providers\\foundrylocal\\foundrylocaloptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D53ED368-EF24-3609-50FC-F04789D924E6}|src\\AzureFrameworkPOC.AI\\AzureFrameworkPOC.AI.csproj|c:\\users\\2409486\\repositories\\azureframeworkpoc\\src\\azureframeworkpoc.ai\\providers\\foundrylocal\\foundrylocalruntime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D53ED368-EF24-3609-50FC-F04789D924E6}|src\\AzureFrameworkPOC.AI\\AzureFrameworkPOC.AI.csproj|solutionrelative:src\\azureframeworkpoc.ai\\providers\\foundrylocal\\foundrylocalruntime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D53ED368-EF24-3609-50FC-F04789D924E6}|src\\AzureFrameworkPOC.AI\\AzureFrameworkPOC.AI.csproj|c:\\users\\2409486\\repositories\\azureframeworkpoc\\src\\azureframeworkpoc.ai\\providers\\foundrylocal\\ifoundrylocalruntime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D53ED368-EF24-3609-50FC-F04789D924E6}|src\\AzureFrameworkPOC.AI\\AzureFrameworkPOC.AI.csproj|solutionrelative:src\\azureframeworkpoc.ai\\providers\\foundrylocal\\ifoundrylocalruntime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C04673C7-0A08-2150-4253-E36BD917BD12}|src\\AzureFrameworkPOC.Console\\AzureFrameworkPOC.Console.csproj|c:\\users\\2409486\\repositories\\azureframeworkpoc\\src\\azureframeworkpoc.console\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C04673C7-0A08-2150-4253-E36BD917BD12}|src\\AzureFrameworkPOC.Console\\AzureFrameworkPOC.Console.csproj|solutionrelative:src\\azureframeworkpoc.console\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96BB8004-7350-2221-DB1A-40AE35CC82EA}|src\\AzureFrameworkPOC.Repository\\AzureFrameworkPOC.Repository.csproj|c:\\users\\2409486\\repositories\\azureframeworkpoc\\src\\azureframeworkpoc.repository\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96BB8004-7350-2221-DB1A-40AE35CC82EA}|src\\AzureFrameworkPOC.Repository\\AzureFrameworkPOC.Repository.csproj|solutionrelative:src\\azureframeworkpoc.repository\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96BB8004-7350-2221-DB1A-40AE35CC82EA}|src\\AzureFrameworkPOC.Repository\\AzureFrameworkPOC.Repository.csproj|c:\\users\\2409486\\repositories\\azureframeworkpoc\\src\\azureframeworkpoc.repository\\azureframeworkpoc.repository.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{96BB8004-7350-2221-DB1A-40AE35CC82EA}|src\\AzureFrameworkPOC.Repository\\AzureFrameworkPOC.Repository.csproj|solutionrelative:src\\azureframeworkpoc.repository\\azureframeworkpoc.repository.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D53ED368-EF24-3609-50FC-F04789D924E6}|src\\AzureFrameworkPOC.AI\\AzureFrameworkPOC.AI.csproj|c:\\users\\2409486\\repositories\\azureframeworkpoc\\src\\azureframeworkpoc.ai\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D53ED368-EF24-3609-50FC-F04789D924E6}|src\\AzureFrameworkPOC.AI\\AzureFrameworkPOC.AI.csproj|solutionrelative:src\\azureframeworkpoc.ai\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D53ED368-EF24-3609-50FC-F04789D924E6}|src\\AzureFrameworkPOC.AI\\AzureFrameworkPOC.AI.csproj|c:\\users\\2409486\\repositories\\azureframeworkpoc\\src\\azureframeworkpoc.ai\\providers\\chatclientproviderresolver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D53ED368-EF24-3609-50FC-F04789D924E6}|src\\AzureFrameworkPOC.AI\\AzureFrameworkPOC.AI.csproj|solutionrelative:src\\azureframeworkpoc.ai\\providers\\chatclientproviderresolver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3585DE8-ECB4-3D79-017D-17A5EFB8D159}|src\\AzureFrameworkPOC.Core\\AzureFrameworkPOC.Core.csproj|c:\\users\\2409486\\repositories\\azureframeworkpoc\\src\\azureframeworkpoc.core\\repository\\repositorycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3585DE8-ECB4-3D79-017D-17A5EFB8D159}|src\\AzureFrameworkPOC.Core\\AzureFrameworkPOC.Core.csproj|solutionrelative:src\\azureframeworkpoc.core\\repository\\repositorycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3585DE8-ECB4-3D79-017D-17A5EFB8D159}|src\\AzureFrameworkPOC.Core\\AzureFrameworkPOC.Core.csproj|c:\\users\\2409486\\repositories\\azureframeworkpoc\\src\\azureframeworkpoc.core\\azureframeworkpoc.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E3585DE8-ECB4-3D79-017D-17A5EFB8D159}|src\\AzureFrameworkPOC.Core\\AzureFrameworkPOC.Core.csproj|solutionrelative:src\\azureframeworkpoc.core\\azureframeworkpoc.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3585DE8-ECB4-3D79-017D-17A5EFB8D159}|src\\AzureFrameworkPOC.Core\\AzureFrameworkPOC.Core.csproj|c:\\users\\2409486\\repositories\\azureframeworkpoc\\src\\azureframeworkpoc.core\\ai\\ichatclientproviderresolver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3585DE8-ECB4-3D79-017D-17A5EFB8D159}|src\\AzureFrameworkPOC.Core\\AzureFrameworkPOC.Core.csproj|solutionrelative:src\\azureframeworkpoc.core\\ai\\ichatclientproviderresolver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3585DE8-ECB4-3D79-017D-17A5EFB8D159}|src\\AzureFrameworkPOC.Core\\AzureFrameworkPOC.Core.csproj|c:\\users\\2409486\\repositories\\azureframeworkpoc\\src\\azureframeworkpoc.core\\ai\\chatprovidertype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3585DE8-ECB4-3D79-017D-17A5EFB8D159}|src\\AzureFrameworkPOC.Core\\AzureFrameworkPOC.Core.csproj|solutionrelative:src\\azureframeworkpoc.core\\ai\\chatprovidertype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\2409486\\Repositories\\AzureFrameworkPOC\\src\\AzureFrameworkPOC.Console\\Program.cs",
+              "RelativeDocumentMoniker": "src\\AzureFrameworkPOC.Console\\Program.cs",
+              "ToolTip": "C:\\Users\\2409486\\Repositories\\AzureFrameworkPOC\\src\\AzureFrameworkPOC.Console\\Program.cs",
+              "RelativeToolTip": "src\\AzureFrameworkPOC.Console\\Program.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAIwB0AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-08T12:10:32.701Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OpenAiChatClientProvider.cs",
+              "DocumentMoniker": "C:\\Users\\2409486\\Repositories\\AzureFrameworkPOC\\src\\AzureFrameworkPOC.AI\\Providers\\OpenAI\\OpenAiChatClientProvider.cs",
+              "RelativeDocumentMoniker": "src\\AzureFrameworkPOC.AI\\Providers\\OpenAI\\OpenAiChatClientProvider.cs",
+              "ToolTip": "C:\\Users\\2409486\\Repositories\\AzureFrameworkPOC\\src\\AzureFrameworkPOC.AI\\Providers\\OpenAI\\OpenAiChatClientProvider.cs",
+              "RelativeToolTip": "src\\AzureFrameworkPOC.AI\\Providers\\OpenAI\\OpenAiChatClientProvider.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-09T07:25:25.465Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OpenAiOptions.cs",
+              "DocumentMoniker": "C:\\Users\\2409486\\Repositories\\AzureFrameworkPOC\\src\\AzureFrameworkPOC.AI\\Providers\\OpenAI\\OpenAiOptions.cs",
+              "RelativeDocumentMoniker": "src\\AzureFrameworkPOC.AI\\Providers\\OpenAI\\OpenAiOptions.cs",
+              "ToolTip": "C:\\Users\\2409486\\Repositories\\AzureFrameworkPOC\\src\\AzureFrameworkPOC.AI\\Providers\\OpenAI\\OpenAiOptions.cs",
+              "RelativeToolTip": "src\\AzureFrameworkPOC.AI\\Providers\\OpenAI\\OpenAiOptions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-09T07:20:35.065Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AzureFrameworkPOC.AI.csproj",
+              "DocumentMoniker": "C:\\Users\\2409486\\Repositories\\AzureFrameworkPOC\\src\\AzureFrameworkPOC.AI\\AzureFrameworkPOC.AI.csproj",
+              "RelativeDocumentMoniker": "src\\AzureFrameworkPOC.AI\\AzureFrameworkPOC.AI.csproj",
+              "ToolTip": "C:\\Users\\2409486\\Repositories\\AzureFrameworkPOC\\src\\AzureFrameworkPOC.AI\\AzureFrameworkPOC.AI.csproj",
+              "RelativeToolTip": "src\\AzureFrameworkPOC.AI\\AzureFrameworkPOC.AI.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-09-08T11:28:05.39Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ConsoleApplication.cs",
+              "DocumentMoniker": "C:\\Users\\2409486\\Repositories\\AzureFrameworkPOC\\src\\AzureFrameworkPOC.Console\\ConsoleApplication.cs",
+              "RelativeDocumentMoniker": "src\\AzureFrameworkPOC.Console\\ConsoleApplication.cs",
+              "ToolTip": "C:\\Users\\2409486\\Repositories\\AzureFrameworkPOC\\src\\AzureFrameworkPOC.Console\\ConsoleApplication.cs",
+              "RelativeToolTip": "src\\AzureFrameworkPOC.Console\\ConsoleApplication.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAAwCYAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-08T12:11:15.866Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IRepositoryContextAccessor.cs",
+              "DocumentMoniker": "C:\\Users\\2409486\\Repositories\\AzureFrameworkPOC\\src\\AzureFrameworkPOC.Core\\Repository\\IRepositoryContextAccessor.cs",
+              "RelativeDocumentMoniker": "src\\AzureFrameworkPOC.Core\\Repository\\IRepositoryContextAccessor.cs",
+              "ToolTip": "C:\\Users\\2409486\\Repositories\\AzureFrameworkPOC\\src\\AzureFrameworkPOC.Core\\Repository\\IRepositoryContextAccessor.cs",
+              "RelativeToolTip": "src\\AzureFrameworkPOC.Core\\Repository\\IRepositoryContextAccessor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-08T11:25:52.044Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "RepositoryContextAccessor.cs",
+              "DocumentMoniker": "C:\\Users\\2409486\\Repositories\\AzureFrameworkPOC\\src\\AzureFrameworkPOC.Repository\\RepositoryContextAccessor.cs",
+              "RelativeDocumentMoniker": "src\\AzureFrameworkPOC.Repository\\RepositoryContextAccessor.cs",
+              "ToolTip": "C:\\Users\\2409486\\Repositories\\AzureFrameworkPOC\\src\\AzureFrameworkPOC.Repository\\RepositoryContextAccessor.cs",
+              "RelativeToolTip": "src\\AzureFrameworkPOC.Repository\\RepositoryContextAccessor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-08T11:51:10.336Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FoundryLocalChatClientProvider.cs",
+              "DocumentMoniker": "C:\\Users\\2409486\\Repositories\\AzureFrameworkPOC\\src\\AzureFrameworkPOC.AI\\Providers\\FoundryLocal\\FoundryLocalChatClientProvider.cs",
+              "RelativeDocumentMoniker": "src\\AzureFrameworkPOC.AI\\Providers\\FoundryLocal\\FoundryLocalChatClientProvider.cs",
+              "ToolTip": "C:\\Users\\2409486\\Repositories\\AzureFrameworkPOC\\src\\AzureFrameworkPOC.AI\\Providers\\FoundryLocal\\FoundryLocalChatClientProvider.cs",
+              "RelativeToolTip": "src\\AzureFrameworkPOC.AI\\Providers\\FoundryLocal\\FoundryLocalChatClientProvider.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAkwDYAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-08T11:43:33.906Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AzureFrameworkPOC.EvaluationTests.csproj",
+              "DocumentMoniker": "C:\\Users\\2409486\\Repositories\\AzureFrameworkPOC\\tests\\AzureFrameworkPOC.EvaluationTests\\AzureFrameworkPOC.EvaluationTests.csproj",
+              "RelativeDocumentMoniker": "tests\\AzureFrameworkPOC.EvaluationTests\\AzureFrameworkPOC.EvaluationTests.csproj",
+              "ToolTip": "C:\\Users\\2409486\\Repositories\\AzureFrameworkPOC\\tests\\AzureFrameworkPOC.EvaluationTests\\AzureFrameworkPOC.EvaluationTests.csproj",
+              "RelativeToolTip": "tests\\AzureFrameworkPOC.EvaluationTests\\AzureFrameworkPOC.EvaluationTests.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-09-09T06:53:52.642Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IChatClientProvider.cs",
+              "DocumentMoniker": "C:\\Users\\2409486\\Repositories\\AzureFrameworkPOC\\src\\AzureFrameworkPOC.Core\\AI\\IChatClientProvider.cs",
+              "RelativeDocumentMoniker": "src\\AzureFrameworkPOC.Core\\AI\\IChatClientProvider.cs",
+              "ToolTip": "C:\\Users\\2409486\\Repositories\\AzureFrameworkPOC\\src\\AzureFrameworkPOC.Core\\AI\\IChatClientProvider.cs",
+              "RelativeToolTip": "src\\AzureFrameworkPOC.Core\\AI\\IChatClientProvider.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-08T11:21:22.221Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AzureFrameworkPOC.Approaches.csproj",
+              "DocumentMoniker": "C:\\Users\\2409486\\Repositories\\AzureFrameworkPOC\\src\\AzureFrameworkPOC.Approaches\\AzureFrameworkPOC.Approaches.csproj",
+              "RelativeDocumentMoniker": "src\\AzureFrameworkPOC.Approaches\\AzureFrameworkPOC.Approaches.csproj",
+              "ToolTip": "C:\\Users\\2409486\\Repositories\\AzureFrameworkPOC\\src\\AzureFrameworkPOC.Approaches\\AzureFrameworkPOC.Approaches.csproj",
+              "RelativeToolTip": "src\\AzureFrameworkPOC.Approaches\\AzureFrameworkPOC.Approaches.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-09-09T06:52:53.582Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AzureFrameworkPOC.Console.csproj",
+              "DocumentMoniker": "C:\\Users\\2409486\\Repositories\\AzureFrameworkPOC\\src\\AzureFrameworkPOC.Console\\AzureFrameworkPOC.Console.csproj",
+              "RelativeDocumentMoniker": "src\\AzureFrameworkPOC.Console\\AzureFrameworkPOC.Console.csproj",
+              "ToolTip": "C:\\Users\\2409486\\Repositories\\AzureFrameworkPOC\\src\\AzureFrameworkPOC.Console\\AzureFrameworkPOC.Console.csproj",
+              "RelativeToolTip": "src\\AzureFrameworkPOC.Console\\AzureFrameworkPOC.Console.csproj",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-09-09T05:55:04.984Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CommandLineOptions.cs",
+              "DocumentMoniker": "C:\\Users\\2409486\\Repositories\\AzureFrameworkPOC\\src\\AzureFrameworkPOC.Console\\CommandLineOptions.cs",
+              "RelativeDocumentMoniker": "src\\AzureFrameworkPOC.Console\\CommandLineOptions.cs",
+              "ToolTip": "C:\\Users\\2409486\\Repositories\\AzureFrameworkPOC\\src\\AzureFrameworkPOC.Console\\CommandLineOptions.cs",
+              "RelativeToolTip": "src\\AzureFrameworkPOC.Console\\CommandLineOptions.cs",
+              "ViewState": "AgIAAFwAAAAAAAAAAAAjwG8AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-08T12:09:44.972Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "FoundryLocalOptions.cs",
+              "DocumentMoniker": "C:\\Users\\2409486\\Repositories\\AzureFrameworkPOC\\src\\AzureFrameworkPOC.AI\\Providers\\FoundryLocal\\FoundryLocalOptions.cs",
+              "RelativeDocumentMoniker": "src\\AzureFrameworkPOC.AI\\Providers\\FoundryLocal\\FoundryLocalOptions.cs",
+              "ToolTip": "C:\\Users\\2409486\\Repositories\\AzureFrameworkPOC\\src\\AzureFrameworkPOC.AI\\Providers\\FoundryLocal\\FoundryLocalOptions.cs",
+              "RelativeToolTip": "src\\AzureFrameworkPOC.AI\\Providers\\FoundryLocal\\FoundryLocalOptions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-08T11:28:13.664Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "FoundryLocalRuntime.cs",
+              "DocumentMoniker": "C:\\Users\\2409486\\Repositories\\AzureFrameworkPOC\\src\\AzureFrameworkPOC.AI\\Providers\\FoundryLocal\\FoundryLocalRuntime.cs",
+              "RelativeDocumentMoniker": "src\\AzureFrameworkPOC.AI\\Providers\\FoundryLocal\\FoundryLocalRuntime.cs",
+              "ToolTip": "C:\\Users\\2409486\\Repositories\\AzureFrameworkPOC\\src\\AzureFrameworkPOC.AI\\Providers\\FoundryLocal\\FoundryLocalRuntime.cs",
+              "RelativeToolTip": "src\\AzureFrameworkPOC.AI\\Providers\\FoundryLocal\\FoundryLocalRuntime.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-08T11:32:47.931Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IFoundryLocalRuntime.cs",
+              "DocumentMoniker": "C:\\Users\\2409486\\Repositories\\AzureFrameworkPOC\\src\\AzureFrameworkPOC.AI\\Providers\\FoundryLocal\\IFoundryLocalRuntime.cs",
+              "RelativeDocumentMoniker": "src\\AzureFrameworkPOC.AI\\Providers\\FoundryLocal\\IFoundryLocalRuntime.cs",
+              "ToolTip": "C:\\Users\\2409486\\Repositories\\AzureFrameworkPOC\\src\\AzureFrameworkPOC.AI\\Providers\\FoundryLocal\\IFoundryLocalRuntime.cs",
+              "RelativeToolTip": "src\\AzureFrameworkPOC.AI\\Providers\\FoundryLocal\\IFoundryLocalRuntime.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-08T11:29:55.386Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "C:\\Users\\2409486\\Repositories\\AzureFrameworkPOC\\src\\AzureFrameworkPOC.AI\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "src\\AzureFrameworkPOC.AI\\DependencyInjection.cs",
+              "ToolTip": "C:\\Users\\2409486\\Repositories\\AzureFrameworkPOC\\src\\AzureFrameworkPOC.AI\\DependencyInjection.cs",
+              "RelativeToolTip": "src\\AzureFrameworkPOC.AI\\DependencyInjection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-08T11:53:32.833Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "C:\\Users\\2409486\\Repositories\\AzureFrameworkPOC\\src\\AzureFrameworkPOC.Repository\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "src\\AzureFrameworkPOC.Repository\\DependencyInjection.cs",
+              "ToolTip": "C:\\Users\\2409486\\Repositories\\AzureFrameworkPOC\\src\\AzureFrameworkPOC.Repository\\DependencyInjection.cs",
+              "RelativeToolTip": "src\\AzureFrameworkPOC.Repository\\DependencyInjection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-08T11:54:33.394Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AzureFrameworkPOC.Repository.csproj",
+              "DocumentMoniker": "C:\\Users\\2409486\\Repositories\\AzureFrameworkPOC\\src\\AzureFrameworkPOC.Repository\\AzureFrameworkPOC.Repository.csproj",
+              "RelativeDocumentMoniker": "src\\AzureFrameworkPOC.Repository\\AzureFrameworkPOC.Repository.csproj",
+              "ToolTip": "C:\\Users\\2409486\\Repositories\\AzureFrameworkPOC\\src\\AzureFrameworkPOC.Repository\\AzureFrameworkPOC.Repository.csproj",
+              "RelativeToolTip": "src\\AzureFrameworkPOC.Repository\\AzureFrameworkPOC.Repository.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-09-08T11:54:25.567Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\2409486\\Repositories\\AzureFrameworkPOC\\src\\AzureFrameworkPOC.Console\\appsettings.json",
+              "RelativeDocumentMoniker": "src\\AzureFrameworkPOC.Console\\appsettings.json",
+              "ToolTip": "C:\\Users\\2409486\\Repositories\\AzureFrameworkPOC\\src\\AzureFrameworkPOC.Console\\appsettings.json",
+              "RelativeToolTip": "src\\AzureFrameworkPOC.Console\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-09-08T11:58:49.602Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ChatClientProviderResolver.cs",
+              "DocumentMoniker": "C:\\Users\\2409486\\Repositories\\AzureFrameworkPOC\\src\\AzureFrameworkPOC.AI\\Providers\\ChatClientProviderResolver.cs",
+              "RelativeDocumentMoniker": "src\\AzureFrameworkPOC.AI\\Providers\\ChatClientProviderResolver.cs",
+              "ToolTip": "C:\\Users\\2409486\\Repositories\\AzureFrameworkPOC\\src\\AzureFrameworkPOC.AI\\Providers\\ChatClientProviderResolver.cs",
+              "RelativeToolTip": "src\\AzureFrameworkPOC.AI\\Providers\\ChatClientProviderResolver.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwBMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-08T11:48:04.11Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "RepositoryContext.cs",
+              "DocumentMoniker": "C:\\Users\\2409486\\Repositories\\AzureFrameworkPOC\\src\\AzureFrameworkPOC.Core\\Repository\\RepositoryContext.cs",
+              "RelativeDocumentMoniker": "src\\AzureFrameworkPOC.Core\\Repository\\RepositoryContext.cs",
+              "ToolTip": "C:\\Users\\2409486\\Repositories\\AzureFrameworkPOC\\src\\AzureFrameworkPOC.Core\\Repository\\RepositoryContext.cs",
+              "RelativeToolTip": "src\\AzureFrameworkPOC.Core\\Repository\\RepositoryContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-08T11:24:58.295Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "IChatClientProviderResolver.cs",
+              "DocumentMoniker": "C:\\Users\\2409486\\Repositories\\AzureFrameworkPOC\\src\\AzureFrameworkPOC.Core\\AI\\IChatClientProviderResolver.cs",
+              "RelativeDocumentMoniker": "src\\AzureFrameworkPOC.Core\\AI\\IChatClientProviderResolver.cs",
+              "ToolTip": "C:\\Users\\2409486\\Repositories\\AzureFrameworkPOC\\src\\AzureFrameworkPOC.Core\\AI\\IChatClientProviderResolver.cs",
+              "RelativeToolTip": "src\\AzureFrameworkPOC.Core\\AI\\IChatClientProviderResolver.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-08T11:23:47.931Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "AzureFrameworkPOC.Core.csproj",
+              "DocumentMoniker": "C:\\Users\\2409486\\Repositories\\AzureFrameworkPOC\\src\\AzureFrameworkPOC.Core\\AzureFrameworkPOC.Core.csproj",
+              "RelativeDocumentMoniker": "src\\AzureFrameworkPOC.Core\\AzureFrameworkPOC.Core.csproj",
+              "ToolTip": "C:\\Users\\2409486\\Repositories\\AzureFrameworkPOC\\src\\AzureFrameworkPOC.Core\\AzureFrameworkPOC.Core.csproj",
+              "RelativeToolTip": "src\\AzureFrameworkPOC.Core\\AzureFrameworkPOC.Core.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-09-08T11:19:33.157Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ChatProviderType.cs",
+              "DocumentMoniker": "C:\\Users\\2409486\\Repositories\\AzureFrameworkPOC\\src\\AzureFrameworkPOC.Core\\AI\\ChatProviderType.cs",
+              "RelativeDocumentMoniker": "src\\AzureFrameworkPOC.Core\\AI\\ChatProviderType.cs",
+              "ToolTip": "C:\\Users\\2409486\\Repositories\\AzureFrameworkPOC\\src\\AzureFrameworkPOC.Core\\AI\\ChatProviderType.cs",
+              "RelativeToolTip": "src\\AzureFrameworkPOC.Core\\AI\\ChatProviderType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-08T11:20:17.73Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

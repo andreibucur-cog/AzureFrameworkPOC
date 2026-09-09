@@ -1,0 +1,23 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <ItemGroup>
+    <ProjectReference Include="..\AzureFrameworkPOC.Core\AzureFrameworkPOC.Core.csproj" />
+    <ProjectReference Include="..\AzureFrameworkPOC.Repository\AzureFrameworkPOC.Repository.csproj" />
+    <ProjectReference Include="..\AzureFrameworkPOC.AI\AzureFrameworkPOC.AI.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="2" Version="2.0.0" />
+    <PackageReference Include="5" Version="0.1.0" />
+    <PackageReference Include="Microsoft.Agents.AI" Version="1.20.0" />
+    <PackageReference Include="Microsoft.Agents.AI.Workflows" Version="1.20.0" />
+  </ItemGroup>
+
+  <PropertyGroup>
+    <TargetFramework>net10.0</TargetFramework>
+    <RuntimeIdentifier>win-x64</RuntimeIdentifier>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+</Project>

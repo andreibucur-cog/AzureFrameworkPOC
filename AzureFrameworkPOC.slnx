@@ -1,0 +1,13 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/AzureFrameworkPOC.AI/AzureFrameworkPOC.AI.csproj" />
+    <Project Path="src/AzureFrameworkPOC.Approaches/AzureFrameworkPOC.Approaches.csproj" />
+    <Project Path="src/AzureFrameworkPOC.Console/AzureFrameworkPOC.Console.csproj" />
+    <Project Path="src/AzureFrameworkPOC.Core/AzureFrameworkPOC.Core.csproj" />
+    <Project Path="src/AzureFrameworkPOC.Repository/AzureFrameworkPOC.Repository.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/AzureFrameworkPOC.EvaluationTests/AzureFrameworkPOC.EvaluationTests.csproj" />
+    <Project Path="tests/AzureFrameworkPOC.UnitTests/AzureFrameworkPOC.UnitTests.csproj" />
+  </Folder>
+</Solution>
