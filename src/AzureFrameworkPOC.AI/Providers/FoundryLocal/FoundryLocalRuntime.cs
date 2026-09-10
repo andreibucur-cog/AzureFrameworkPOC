@@ -104,11 +104,18 @@ public sealed class FoundryLocalRuntime :
                 $"Foundry Local model '{_options.ModelAlias}' " +
                 "was not found in the catalog.");
 
+        _model = _model.Variants
+            .FirstOrDefault(v => v.Id.Contains("generic-cpu"))
+            ?? throw new InvalidOperationException(
+                $"was not found for model '{_options.ModelAlias}'.");
+
         _logger.LogInformation(
             "Ensuring model {ModelAlias} is downloaded.",
             _options.ModelAlias);
 
-        await _model.DownloadAsync(
+        if (!await _model.IsCachedAsync(cancellationToken))
+        {
+            await _model.DownloadAsync(
             progress =>
             {
                 _logger.LogInformation(
@@ -116,10 +123,13 @@ public sealed class FoundryLocalRuntime :
                     progress);
             },
             cancellationToken);
-
-        _logger.LogInformation(
-            "Loading Foundry Local model {ModelAlias}.",
-            _options.ModelAlias);
+        }
+        else
+        {
+            _logger.LogInformation(
+                "Model {ModelAlias} is already cached.",
+                _options.ModelAlias);
+        }
 
         await _model.LoadAsync(cancellationToken);
 

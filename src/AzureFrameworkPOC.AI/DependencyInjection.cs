@@ -3,6 +3,7 @@ using AzureFrameworkPOC.AI.Providers.FoundryLocal;
 using AzureFrameworkPOC.Core.AI;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
+using AzureFrameworkPOC.AI.Tools;
 
 namespace AzureFrameworkPOC.AI;
 
@@ -28,6 +29,9 @@ public static class DependencyInjection
                         options.ModelAlias),
                 "Foundry Local model alias is required.")
             .ValidateOnStart();
+
+        services.AddSingleton<RepositoryTools>();
+        services.AddSingleton<ArchitectureToolFactory>();
 
         services.AddSingleton<
             IFoundryLocalRuntime,

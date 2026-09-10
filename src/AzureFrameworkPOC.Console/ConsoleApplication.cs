@@ -2,12 +2,14 @@
 using AzureFrameworkPOC.Core.Repository;
 using Microsoft.Extensions.AI;
 using Microsoft.Extensions.Logging;
+using AzureFrameworkPOC.Core.Exploration;
 
 namespace AzureFrameworkPOC.Console;
 
 public sealed class ConsoleApplication(
     IChatClientProviderResolver providerResolver,
     IRepositoryContextAccessor repositoryContextAccessor,
+    IEnumerable<IArchitectureExplorer> explorers,
     ILogger<ConsoleApplication> logger)
 {
     public async Task RunAsync(
@@ -27,46 +29,35 @@ public sealed class ConsoleApplication(
             "Selected repository: {RepositoryPath}",
             repository.RootPath);
 
-        IChatClientProvider provider =
-            providerResolver.Resolve(options.Provider);
+        IArchitectureExplorer agentExplorer =
+            explorers.Single(
+                explorer =>
+                    explorer.Type == ExplorerType.Agent);
 
-        logger.LogInformation(
-            "Starting AI provider {Provider}.",
-            provider.Type);
+        System.Console.WriteLine();
+        System.Console.Write(
+            "Architecture question: ");
 
-        IChatClient chatClient =
-            await provider.GetChatClientAsync(
-                cancellationToken);
+        string? questionText =
+            System.Console.ReadLine();
 
-        ChatResponse response =
-            await chatClient.GetResponseAsync(
-                [
-                    new ChatMessage(
-                        ChatRole.System,
-                        """
-                        You are a concise assistant used to verify
-                        an AI provider connection.
-                        """),
+        if (string.IsNullOrWhiteSpace(questionText))
+        {
+            throw new ArgumentException(
+                "An architecture question is required.");
+        }
 
-                    new ChatMessage(
-                        ChatRole.User,
-                        """
-                        Respond with exactly one short sentence confirming
-                        that the local model connection is working.
-                        """)
-                ],
-                new ChatOptions
-                {
-                    MaxOutputTokens = 100,
-                    Temperature = 0
-                },
+        ExplorerResult result =
+            await agentExplorer.ExploreAsync(
+                new ArchitectureQuestion(questionText),
                 cancellationToken);
 
         System.Console.WriteLine();
-        System.Console.WriteLine("Model response:");
-        System.Console.WriteLine(response.Text);
+        System.Console.WriteLine("AGENT RESULT");
+        System.Console.WriteLine("============");
+        System.Console.WriteLine(result.Answer.Summary);
         System.Console.WriteLine();
         System.Console.WriteLine(
-            $"Repository selected: {repository.RootPath}");
+            $"Duration: {result.Metrics.Duration}");
     }
 }

@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "WSL": {
+      "commandName": "WSL2",
+      "distributionName": ""
+    },
+    "AzureFrameworkPOC.Console with CLA": {
+      "commandName": "Project",
+      "commandLineArgs": "--repository \"C:\\Users\\2409486\\Repositories\\foundry-samples\\samples\\csharp\\foundry-local\\tutorial-tool-calling\" --provider \"FoundryLocal\""
+    }
+  }
+}
