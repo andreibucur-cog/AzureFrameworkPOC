@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\2409486\\Repositories\\AzureFrameworkPOC\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{C04673C7-0A08-2150-4253-E36BD917BD12}|src\\AzureFrameworkPOC.Console\\AzureFrameworkPOC.Console.csproj|c:\\users\\2409486\\repositories\\azureframeworkpoc\\src\\azureframeworkpoc.console\\consoleapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C04673C7-0A08-2150-4253-E36BD917BD12}|src\\AzureFrameworkPOC.Console\\AzureFrameworkPOC.Console.csproj|solutionrelative:src\\azureframeworkpoc.console\\consoleapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D53ED368-EF24-3609-50FC-F04789D924E6}|src\\AzureFrameworkPOC.AI\\AzureFrameworkPOC.AI.csproj|c:\\users\\2409486\\repositories\\azureframeworkpoc\\src\\azureframeworkpoc.ai\\tools\\architecturetoolfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D53ED368-EF24-3609-50FC-F04789D924E6}|src\\AzureFrameworkPOC.AI\\AzureFrameworkPOC.AI.csproj|solutionrelative:src\\azureframeworkpoc.ai\\tools\\architecturetoolfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{7093F7ED-0507-35A3-28AE-1208CE73BEA8}|src\\AzureFrameworkPOC.Approaches\\AzureFrameworkPOC.Approaches.csproj|c:\\users\\2409486\\repositories\\azureframeworkpoc\\src\\azureframeworkpoc.approaches\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7093F7ED-0507-35A3-28AE-1208CE73BEA8}|src\\AzureFrameworkPOC.Approaches\\AzureFrameworkPOC.Approaches.csproj|solutionrelative:src\\azureframeworkpoc.approaches\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -53,10 +61,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{96BB8004-7350-2221-DB1A-40AE35CC82EA}|src\\AzureFrameworkPOC.Repository\\AzureFrameworkPOC.Repository.csproj|c:\\users\\2409486\\repositories\\azureframeworkpoc\\src\\azureframeworkpoc.repository\\projectinspector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{96BB8004-7350-2221-DB1A-40AE35CC82EA}|src\\AzureFrameworkPOC.Repository\\AzureFrameworkPOC.Repository.csproj|solutionrelative:src\\azureframeworkpoc.repository\\projectinspector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C04673C7-0A08-2150-4253-E36BD917BD12}|src\\AzureFrameworkPOC.Console\\AzureFrameworkPOC.Console.csproj|c:\\users\\2409486\\repositories\\azureframeworkpoc\\src\\azureframeworkpoc.console\\consoleapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C04673C7-0A08-2150-4253-E36BD917BD12}|src\\AzureFrameworkPOC.Console\\AzureFrameworkPOC.Console.csproj|solutionrelative:src\\azureframeworkpoc.console\\consoleapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C04673C7-0A08-2150-4253-E36BD917BD12}|src\\AzureFrameworkPOC.Console\\AzureFrameworkPOC.Console.csproj|c:\\users\\2409486\\repositories\\azureframeworkpoc\\src\\azureframeworkpoc.console\\commandlineoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -169,10 +173,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{E3585DE8-ECB4-3D79-017D-17A5EFB8D159}|src\\AzureFrameworkPOC.Core\\AzureFrameworkPOC.Core.csproj|c:\\users\\2409486\\repositories\\azureframeworkpoc\\src\\azureframeworkpoc.core\\exploration\\iarchitectureexplorer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E3585DE8-ECB4-3D79-017D-17A5EFB8D159}|src\\AzureFrameworkPOC.Core\\AzureFrameworkPOC.Core.csproj|solutionrelative:src\\azureframeworkpoc.core\\exploration\\iarchitectureexplorer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D53ED368-EF24-3609-50FC-F04789D924E6}|src\\AzureFrameworkPOC.AI\\AzureFrameworkPOC.AI.csproj|c:\\users\\2409486\\repositories\\azureframeworkpoc\\src\\azureframeworkpoc.ai\\tools\\architecturetoolfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D53ED368-EF24-3609-50FC-F04789D924E6}|src\\AzureFrameworkPOC.AI\\AzureFrameworkPOC.AI.csproj|solutionrelative:src\\azureframeworkpoc.ai\\tools\\architecturetoolfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D53ED368-EF24-3609-50FC-F04789D924E6}|src\\AzureFrameworkPOC.AI\\AzureFrameworkPOC.AI.csproj|c:\\users\\2409486\\repositories\\azureframeworkpoc\\src\\azureframeworkpoc.ai\\tools\\repositorytools.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -330,11 +330,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 20,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\2409486\\Repositories\\AzureFrameworkPOC\\src\\AzureFrameworkPOC.Console\\Program.cs",
               "RelativeDocumentMoniker": "src\\AzureFrameworkPOC.Console\\Program.cs",
@@ -348,20 +348,85 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "HarnessArchitectureExplorer.cs",
-              "DocumentMoniker": "C:\\Users\\2409486\\Repositories\\AzureFrameworkPOC\\src\\AzureFrameworkPOC.Approaches\\Harness\\HarnessArchitectureExplorer.cs",
-              "RelativeDocumentMoniker": "src\\AzureFrameworkPOC.Approaches\\Harness\\HarnessArchitectureExplorer.cs",
-              "ToolTip": "C:\\Users\\2409486\\Repositories\\AzureFrameworkPOC\\src\\AzureFrameworkPOC.Approaches\\Harness\\HarnessArchitectureExplorer.cs",
-              "RelativeToolTip": "src\\AzureFrameworkPOC.Approaches\\Harness\\HarnessArchitectureExplorer.cs",
-              "ViewState": "AgIAACoAAAAAAAAAAAAYwDYAAAAJAAAAAAAAAA==",
+              "DocumentIndex": 5,
+              "Title": "HarnessInstructions.cs",
+              "DocumentMoniker": "C:\\Users\\2409486\\Repositories\\AzureFrameworkPOC\\src\\AzureFrameworkPOC.Approaches\\Harness\\HarnessInstructions.cs",
+              "RelativeDocumentMoniker": "src\\AzureFrameworkPOC.Approaches\\Harness\\HarnessInstructions.cs",
+              "ToolTip": "C:\\Users\\2409486\\Repositories\\AzureFrameworkPOC\\src\\AzureFrameworkPOC.Approaches\\Harness\\HarnessInstructions.cs",
+              "RelativeToolTip": "src\\AzureFrameworkPOC.Approaches\\Harness\\HarnessInstructions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADwAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-11T13:40:30.818Z",
+              "WhenOpened": "2026-09-11T13:35:20.28Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HarnessLimits.cs",
+              "DocumentMoniker": "C:\\Users\\2409486\\Repositories\\AzureFrameworkPOC\\src\\AzureFrameworkPOC.Core\\Exploration\\HarnessLimits.cs",
+              "RelativeDocumentMoniker": "src\\AzureFrameworkPOC.Core\\Exploration\\HarnessLimits.cs",
+              "ToolTip": "C:\\Users\\2409486\\Repositories\\AzureFrameworkPOC\\src\\AzureFrameworkPOC.Core\\Exploration\\HarnessLimits.cs",
+              "RelativeToolTip": "src\\AzureFrameworkPOC.Core\\Exploration\\HarnessLimits.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-11T13:32:31.517Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "RepositoryInventory.cs",
+              "DocumentMoniker": "C:\\Users\\2409486\\Repositories\\AzureFrameworkPOC\\src\\AzureFrameworkPOC.Repository\\RepositoryInventory.cs",
+              "RelativeDocumentMoniker": "src\\AzureFrameworkPOC.Repository\\RepositoryInventory.cs",
+              "ToolTip": "C:\\Users\\2409486\\Repositories\\AzureFrameworkPOC\\src\\AzureFrameworkPOC.Repository\\RepositoryInventory.cs",
+              "RelativeToolTip": "src\\AzureFrameworkPOC.Repository\\RepositoryInventory.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAQwD4AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-09T10:29:00.039Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "C:\\Users\\2409486\\Repositories\\AzureFrameworkPOC\\src\\AzureFrameworkPOC.Approaches\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "src\\AzureFrameworkPOC.Approaches\\DependencyInjection.cs",
+              "ToolTip": "C:\\Users\\2409486\\Repositories\\AzureFrameworkPOC\\src\\AzureFrameworkPOC.Approaches\\DependencyInjection.cs",
+              "RelativeToolTip": "src\\AzureFrameworkPOC.Approaches\\DependencyInjection.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAQwEMAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-09T11:20:52.618Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ConsoleApplication.cs",
+              "DocumentMoniker": "C:\\Users\\2409486\\Repositories\\AzureFrameworkPOC\\src\\AzureFrameworkPOC.Console\\ConsoleApplication.cs",
+              "RelativeDocumentMoniker": "src\\AzureFrameworkPOC.Console\\ConsoleApplication.cs",
+              "ToolTip": "C:\\Users\\2409486\\Repositories\\AzureFrameworkPOC\\src\\AzureFrameworkPOC.Console\\ConsoleApplication.cs",
+              "RelativeToolTip": "src\\AzureFrameworkPOC.Console\\ConsoleApplication.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAmwBUAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-08T12:11:15.866Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ArchitectureToolFactory.cs",
+              "DocumentMoniker": "C:\\Users\\2409486\\Repositories\\AzureFrameworkPOC\\src\\AzureFrameworkPOC.AI\\Tools\\ArchitectureToolFactory.cs",
+              "RelativeDocumentMoniker": "src\\AzureFrameworkPOC.AI\\Tools\\ArchitectureToolFactory.cs",
+              "ToolTip": "C:\\Users\\2409486\\Repositories\\AzureFrameworkPOC\\src\\AzureFrameworkPOC.AI\\Tools\\ArchitectureToolFactory.cs",
+              "RelativeToolTip": "src\\AzureFrameworkPOC.AI\\Tools\\ArchitectureToolFactory.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAswBQAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-09T10:34:24.439Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "ArchitectureHarnessFactory.cs",
               "DocumentMoniker": "C:\\Users\\2409486\\Repositories\\AzureFrameworkPOC\\src\\AzureFrameworkPOC.Approaches\\Harness\\ArchitectureHarnessFactory.cs",
               "RelativeDocumentMoniker": "src\\AzureFrameworkPOC.Approaches\\Harness\\ArchitectureHarnessFactory.cs",
@@ -375,58 +440,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "HarnessInstructions.cs",
-              "DocumentMoniker": "C:\\Users\\2409486\\Repositories\\AzureFrameworkPOC\\src\\AzureFrameworkPOC.Approaches\\Harness\\HarnessInstructions.cs",
-              "RelativeDocumentMoniker": "src\\AzureFrameworkPOC.Approaches\\Harness\\HarnessInstructions.cs",
-              "ToolTip": "C:\\Users\\2409486\\Repositories\\AzureFrameworkPOC\\src\\AzureFrameworkPOC.Approaches\\Harness\\HarnessInstructions.cs",
-              "RelativeToolTip": "src\\AzureFrameworkPOC.Approaches\\Harness\\HarnessInstructions.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADwAAAABAAAAAAAAAA==",
+              "Title": "HarnessArchitectureExplorer.cs",
+              "DocumentMoniker": "C:\\Users\\2409486\\Repositories\\AzureFrameworkPOC\\src\\AzureFrameworkPOC.Approaches\\Harness\\HarnessArchitectureExplorer.cs",
+              "RelativeDocumentMoniker": "src\\AzureFrameworkPOC.Approaches\\Harness\\HarnessArchitectureExplorer.cs",
+              "ToolTip": "C:\\Users\\2409486\\Repositories\\AzureFrameworkPOC\\src\\AzureFrameworkPOC.Approaches\\Harness\\HarnessArchitectureExplorer.cs",
+              "RelativeToolTip": "src\\AzureFrameworkPOC.Approaches\\Harness\\HarnessArchitectureExplorer.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAYwDYAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-11T13:35:20.28Z",
+              "WhenOpened": "2026-09-11T13:40:30.818Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "HarnessLimits.cs",
-              "DocumentMoniker": "C:\\Users\\2409486\\Repositories\\AzureFrameworkPOC\\src\\AzureFrameworkPOC.Core\\Exploration\\HarnessLimits.cs",
-              "RelativeDocumentMoniker": "src\\AzureFrameworkPOC.Core\\Exploration\\HarnessLimits.cs",
-              "ToolTip": "C:\\Users\\2409486\\Repositories\\AzureFrameworkPOC\\src\\AzureFrameworkPOC.Core\\Exploration\\HarnessLimits.cs",
-              "RelativeToolTip": "src\\AzureFrameworkPOC.Core\\Exploration\\HarnessLimits.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-11T13:32:31.517Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "RepositoryInventory.cs",
-              "DocumentMoniker": "C:\\Users\\2409486\\Repositories\\AzureFrameworkPOC\\src\\AzureFrameworkPOC.Repository\\RepositoryInventory.cs",
-              "RelativeDocumentMoniker": "src\\AzureFrameworkPOC.Repository\\RepositoryInventory.cs",
-              "ToolTip": "C:\\Users\\2409486\\Repositories\\AzureFrameworkPOC\\src\\AzureFrameworkPOC.Repository\\RepositoryInventory.cs",
-              "RelativeToolTip": "src\\AzureFrameworkPOC.Repository\\RepositoryInventory.cs",
-              "ViewState": "AgIAACUAAAAAAAAAAAAQwD4AAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-09T10:29:00.039Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "DependencyInjection.cs",
-              "DocumentMoniker": "C:\\Users\\2409486\\Repositories\\AzureFrameworkPOC\\src\\AzureFrameworkPOC.Approaches\\DependencyInjection.cs",
-              "RelativeDocumentMoniker": "src\\AzureFrameworkPOC.Approaches\\DependencyInjection.cs",
-              "ToolTip": "C:\\Users\\2409486\\Repositories\\AzureFrameworkPOC\\src\\AzureFrameworkPOC.Approaches\\DependencyInjection.cs*",
-              "RelativeToolTip": "src\\AzureFrameworkPOC.Approaches\\DependencyInjection.cs*",
-              "ViewState": "AgIAADUAAAAAAAAAAAAQwEMAAAAeAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-09T11:20:52.618Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 13,
               "Title": "RepositoryBoundary.cs",
               "DocumentMoniker": "C:\\Users\\2409486\\Repositories\\AzureFrameworkPOC\\src\\AzureFrameworkPOC.Repository\\RepositoryBoundary.cs",
               "RelativeDocumentMoniker": "src\\AzureFrameworkPOC.Repository\\RepositoryBoundary.cs",
@@ -439,7 +465,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 12,
               "Title": "RepositoryContextAccessor.cs",
               "DocumentMoniker": "C:\\Users\\2409486\\Repositories\\AzureFrameworkPOC\\src\\AzureFrameworkPOC.Repository\\RepositoryContextAccessor.cs",
               "RelativeDocumentMoniker": "src\\AzureFrameworkPOC.Repository\\RepositoryContextAccessor.cs",
@@ -452,7 +478,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "RepositorySearch.cs",
               "DocumentMoniker": "C:\\Users\\2409486\\Repositories\\AzureFrameworkPOC\\src\\AzureFrameworkPOC.Repository\\RepositorySearch.cs",
               "RelativeDocumentMoniker": "src\\AzureFrameworkPOC.Repository\\RepositorySearch.cs",
@@ -465,7 +491,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "SourceFileReader.cs",
               "DocumentMoniker": "C:\\Users\\2409486\\Repositories\\AzureFrameworkPOC\\src\\AzureFrameworkPOC.Repository\\SourceFileReader.cs",
               "RelativeDocumentMoniker": "src\\AzureFrameworkPOC.Repository\\SourceFileReader.cs",
@@ -478,7 +504,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\2409486\\Repositories\\AzureFrameworkPOC\\src\\AzureFrameworkPOC.Console\\appsettings.json",
               "RelativeDocumentMoniker": "src\\AzureFrameworkPOC.Console\\appsettings.json",
@@ -491,7 +517,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 14,
               "Title": "ProjectInspector.cs",
               "DocumentMoniker": "C:\\Users\\2409486\\Repositories\\AzureFrameworkPOC\\src\\AzureFrameworkPOC.Repository\\ProjectInspector.cs",
               "RelativeDocumentMoniker": "src\\AzureFrameworkPOC.Repository\\ProjectInspector.cs",
@@ -504,12 +530,12 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "AzureFrameworkPOC.Approaches.csproj",
               "DocumentMoniker": "C:\\Users\\2409486\\Repositories\\AzureFrameworkPOC\\src\\AzureFrameworkPOC.Approaches\\AzureFrameworkPOC.Approaches.csproj",
               "RelativeDocumentMoniker": "src\\AzureFrameworkPOC.Approaches\\AzureFrameworkPOC.Approaches.csproj",
-              "ToolTip": "C:\\Users\\2409486\\Repositories\\AzureFrameworkPOC\\src\\AzureFrameworkPOC.Approaches\\AzureFrameworkPOC.Approaches.csproj*",
-              "RelativeToolTip": "src\\AzureFrameworkPOC.Approaches\\AzureFrameworkPOC.Approaches.csproj*",
+              "ToolTip": "C:\\Users\\2409486\\Repositories\\AzureFrameworkPOC\\src\\AzureFrameworkPOC.Approaches\\AzureFrameworkPOC.Approaches.csproj",
+              "RelativeToolTip": "src\\AzureFrameworkPOC.Approaches\\AzureFrameworkPOC.Approaches.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2026-09-09T06:52:53.582Z",
@@ -517,7 +543,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 18,
               "Title": "ArchitectureWorkflowFactory.cs",
               "DocumentMoniker": "C:\\Users\\2409486\\Repositories\\AzureFrameworkPOC\\src\\AzureFrameworkPOC.Approaches\\Workflow\\ArchitectureWorkflowFactory.cs",
               "RelativeDocumentMoniker": "src\\AzureFrameworkPOC.Approaches\\Workflow\\ArchitectureWorkflowFactory.cs",
@@ -530,20 +556,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "ConsoleApplication.cs",
-              "DocumentMoniker": "C:\\Users\\2409486\\Repositories\\AzureFrameworkPOC\\src\\AzureFrameworkPOC.Console\\ConsoleApplication.cs",
-              "RelativeDocumentMoniker": "src\\AzureFrameworkPOC.Console\\ConsoleApplication.cs",
-              "ToolTip": "C:\\Users\\2409486\\Repositories\\AzureFrameworkPOC\\src\\AzureFrameworkPOC.Console\\ConsoleApplication.cs",
-              "RelativeToolTip": "src\\AzureFrameworkPOC.Console\\ConsoleApplication.cs",
-              "ViewState": "AgIAABQAAAAAAAAAAAAqwCQAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-08T12:11:15.866Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "CommandLineOptions.cs",
               "DocumentMoniker": "C:\\Users\\2409486\\Repositories\\AzureFrameworkPOC\\src\\AzureFrameworkPOC.Console\\CommandLineOptions.cs",
               "RelativeDocumentMoniker": "src\\AzureFrameworkPOC.Console\\CommandLineOptions.cs",
@@ -556,7 +569,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "RepositoryOverview.cs",
               "DocumentMoniker": "C:\\Users\\2409486\\Repositories\\AzureFrameworkPOC\\src\\AzureFrameworkPOC.Core\\Repository\\RepositoryOverview.cs",
               "RelativeDocumentMoniker": "src\\AzureFrameworkPOC.Core\\Repository\\RepositoryOverview.cs",
@@ -569,7 +582,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 17,
               "Title": "WorkflowRequest.cs",
               "DocumentMoniker": "C:\\Users\\2409486\\Repositories\\AzureFrameworkPOC\\src\\AzureFrameworkPOC.Approaches\\Workflow\\WorkflowRequest.cs",
               "RelativeDocumentMoniker": "src\\AzureFrameworkPOC.Approaches\\Workflow\\WorkflowRequest.cs",
@@ -582,7 +595,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 19,
               "Title": "WorkflowArchitectureExplorer.cs",
               "DocumentMoniker": "C:\\Users\\2409486\\Repositories\\AzureFrameworkPOC\\src\\AzureFrameworkPOC.Approaches\\Workflow\\WorkflowArchitectureExplorer.cs",
               "RelativeDocumentMoniker": "src\\AzureFrameworkPOC.Approaches\\Workflow\\WorkflowArchitectureExplorer.cs",
@@ -595,7 +608,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 21,
               "Title": "ValidateAnswerExecutor.cs",
               "DocumentMoniker": "C:\\Users\\2409486\\Repositories\\AzureFrameworkPOC\\src\\AzureFrameworkPOC.Approaches\\Workflow\\Executors\\ValidateAnswerExecutor.cs",
               "RelativeDocumentMoniker": "src\\AzureFrameworkPOC.Approaches\\Workflow\\Executors\\ValidateAnswerExecutor.cs",
@@ -608,7 +621,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 22,
               "Title": "SynthesizeAnswerExecutor.cs",
               "DocumentMoniker": "C:\\Users\\2409486\\Repositories\\AzureFrameworkPOC\\src\\AzureFrameworkPOC.Approaches\\Workflow\\Executors\\SynthesizeAnswerExecutor.cs",
               "RelativeDocumentMoniker": "src\\AzureFrameworkPOC.Approaches\\Workflow\\Executors\\SynthesizeAnswerExecutor.cs",
@@ -621,7 +634,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 23,
               "Title": "SynthesisAgentFactory.cs",
               "DocumentMoniker": "C:\\Users\\2409486\\Repositories\\AzureFrameworkPOC\\src\\AzureFrameworkPOC.Approaches\\Workflow\\SynthesisAgentFactory.cs",
               "RelativeDocumentMoniker": "src\\AzureFrameworkPOC.Approaches\\Workflow\\SynthesisAgentFactory.cs",
@@ -634,7 +647,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 24,
               "Title": "CollectEvidenceExecutor.cs",
               "DocumentMoniker": "C:\\Users\\2409486\\Repositories\\AzureFrameworkPOC\\src\\AzureFrameworkPOC.Approaches\\Workflow\\Executors\\CollectEvidenceExecutor.cs",
               "RelativeDocumentMoniker": "src\\AzureFrameworkPOC.Approaches\\Workflow\\Executors\\CollectEvidenceExecutor.cs",
@@ -647,7 +660,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 25,
               "Title": "ExecuteSearchPlanExecutor.cs",
               "DocumentMoniker": "C:\\Users\\2409486\\Repositories\\AzureFrameworkPOC\\src\\AzureFrameworkPOC.Approaches\\Workflow\\Executors\\ExecuteSearchPlanExecutor.cs",
               "RelativeDocumentMoniker": "src\\AzureFrameworkPOC.Approaches\\Workflow\\Executors\\ExecuteSearchPlanExecutor.cs",
@@ -660,7 +673,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 26,
               "Title": "CreateSearchPlanExecutor.cs",
               "DocumentMoniker": "C:\\Users\\2409486\\Repositories\\AzureFrameworkPOC\\src\\AzureFrameworkPOC.Approaches\\Workflow\\Executors\\CreateSearchPlanExecutor.cs",
               "RelativeDocumentMoniker": "src\\AzureFrameworkPOC.Approaches\\Workflow\\Executors\\CreateSearchPlanExecutor.cs",
@@ -673,7 +686,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 27,
               "Title": "SearchPlanningAgentFactory.cs",
               "DocumentMoniker": "C:\\Users\\2409486\\Repositories\\AzureFrameworkPOC\\src\\AzureFrameworkPOC.Approaches\\Workflow\\SearchPlanningAgentFactory.cs",
               "RelativeDocumentMoniker": "src\\AzureFrameworkPOC.Approaches\\Workflow\\SearchPlanningAgentFactory.cs",
@@ -686,7 +699,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 28,
               "Title": "InspectRepositoryExecutor.cs",
               "DocumentMoniker": "C:\\Users\\2409486\\Repositories\\AzureFrameworkPOC\\src\\AzureFrameworkPOC.Approaches\\Workflow\\Executors\\InspectRepositoryExecutor.cs",
               "RelativeDocumentMoniker": "src\\AzureFrameworkPOC.Approaches\\Workflow\\Executors\\InspectRepositoryExecutor.cs",
@@ -699,7 +712,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 29,
               "Title": "WorkflowLimits.cs",
               "DocumentMoniker": "C:\\Users\\2409486\\Repositories\\AzureFrameworkPOC\\src\\AzureFrameworkPOC.Core\\Exploration\\WorkflowLimits.cs",
               "RelativeDocumentMoniker": "src\\AzureFrameworkPOC.Core\\Exploration\\WorkflowLimits.cs",
@@ -712,7 +725,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 30,
               "Title": "ValidatedArchitectureAnswer.cs",
               "DocumentMoniker": "C:\\Users\\2409486\\Repositories\\AzureFrameworkPOC\\src\\AzureFrameworkPOC.Approaches\\Workflow\\ValidatedArchitectureAnswer.cs",
               "RelativeDocumentMoniker": "src\\AzureFrameworkPOC.Approaches\\Workflow\\ValidatedArchitectureAnswer.cs",
@@ -725,7 +738,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 31,
               "Title": "DraftArchitectureAnswer.cs",
               "DocumentMoniker": "C:\\Users\\2409486\\Repositories\\AzureFrameworkPOC\\src\\AzureFrameworkPOC.Approaches\\Workflow\\DraftArchitectureAnswer.cs",
               "RelativeDocumentMoniker": "src\\AzureFrameworkPOC.Approaches\\Workflow\\DraftArchitectureAnswer.cs",
@@ -738,7 +751,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 32,
               "Title": "CollectedEvidence.cs",
               "DocumentMoniker": "C:\\Users\\2409486\\Repositories\\AzureFrameworkPOC\\src\\AzureFrameworkPOC.Approaches\\Workflow\\CollectedEvidence.cs",
               "RelativeDocumentMoniker": "src\\AzureFrameworkPOC.Approaches\\Workflow\\CollectedEvidence.cs",
@@ -751,7 +764,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 33,
               "Title": "EvidenceItem.cs",
               "DocumentMoniker": "C:\\Users\\2409486\\Repositories\\AzureFrameworkPOC\\src\\AzureFrameworkPOC.Approaches\\Workflow\\EvidenceItem.cs",
               "RelativeDocumentMoniker": "src\\AzureFrameworkPOC.Approaches\\Workflow\\EvidenceItem.cs",
@@ -764,7 +777,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 34,
               "Title": "SearchExecutionResult.cs",
               "DocumentMoniker": "C:\\Users\\2409486\\Repositories\\AzureFrameworkPOC\\src\\AzureFrameworkPOC.Approaches\\Workflow\\SearchExecutionResult.cs",
               "RelativeDocumentMoniker": "src\\AzureFrameworkPOC.Approaches\\Workflow\\SearchExecutionResult.cs",
@@ -777,7 +790,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 35,
               "Title": "SearchOperationResult.cs",
               "DocumentMoniker": "C:\\Users\\2409486\\Repositories\\AzureFrameworkPOC\\src\\AzureFrameworkPOC.Approaches\\Workflow\\SearchOperationResult.cs",
               "RelativeDocumentMoniker": "src\\AzureFrameworkPOC.Approaches\\Workflow\\SearchOperationResult.cs",
@@ -790,7 +803,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 36,
               "Title": "SearchPlan.cs",
               "DocumentMoniker": "C:\\Users\\2409486\\Repositories\\AzureFrameworkPOC\\src\\AzureFrameworkPOC.Approaches\\Workflow\\SearchPlan.cs",
               "RelativeDocumentMoniker": "src\\AzureFrameworkPOC.Approaches\\Workflow\\SearchPlan.cs",
@@ -803,7 +816,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 37,
               "Title": "SearchOperation.cs",
               "DocumentMoniker": "C:\\Users\\2409486\\Repositories\\AzureFrameworkPOC\\src\\AzureFrameworkPOC.Approaches\\Workflow\\SearchOperation.cs",
               "RelativeDocumentMoniker": "src\\AzureFrameworkPOC.Approaches\\Workflow\\SearchOperation.cs",
@@ -816,7 +829,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 38,
               "Title": "ArchitectureQuestion.cs",
               "DocumentMoniker": "C:\\Users\\2409486\\Repositories\\AzureFrameworkPOC\\src\\AzureFrameworkPOC.Core\\Exploration\\ArchitectureQuestion.cs",
               "RelativeDocumentMoniker": "src\\AzureFrameworkPOC.Core\\Exploration\\ArchitectureQuestion.cs",
@@ -829,7 +842,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 41,
+              "DocumentIndex": 42,
               "Title": "IArchitectureExplorer.cs",
               "DocumentMoniker": "C:\\Users\\2409486\\Repositories\\AzureFrameworkPOC\\src\\AzureFrameworkPOC.Core\\Exploration\\IArchitectureExplorer.cs",
               "RelativeDocumentMoniker": "src\\AzureFrameworkPOC.Core\\Exploration\\IArchitectureExplorer.cs",
@@ -842,7 +855,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 39,
+              "DocumentIndex": 40,
               "Title": "AgentArchitectureExplorer.cs",
               "DocumentMoniker": "C:\\Users\\2409486\\Repositories\\AzureFrameworkPOC\\src\\AzureFrameworkPOC.Approaches\\Agent\\AgentArchitectureExplorer.cs",
               "RelativeDocumentMoniker": "src\\AzureFrameworkPOC.Approaches\\Agent\\AgentArchitectureExplorer.cs",
@@ -855,7 +868,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 40,
+              "DocumentIndex": 41,
               "Title": "ExplorerResult.cs",
               "DocumentMoniker": "C:\\Users\\2409486\\Repositories\\AzureFrameworkPOC\\src\\AzureFrameworkPOC.Core\\Exploration\\ExplorerResult.cs",
               "RelativeDocumentMoniker": "src\\AzureFrameworkPOC.Core\\Exploration\\ExplorerResult.cs",
@@ -868,7 +881,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 38,
+              "DocumentIndex": 39,
               "Title": "OpenAiOptions.cs",
               "DocumentMoniker": "C:\\Users\\2409486\\Repositories\\AzureFrameworkPOC\\src\\AzureFrameworkPOC.AI\\Providers\\OpenAI\\OpenAiOptions.cs",
               "RelativeDocumentMoniker": "src\\AzureFrameworkPOC.AI\\Providers\\OpenAI\\OpenAiOptions.cs",
@@ -877,19 +890,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-09-09T07:20:35.065Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 42,
-              "Title": "ArchitectureToolFactory.cs",
-              "DocumentMoniker": "C:\\Users\\2409486\\Repositories\\AzureFrameworkPOC\\src\\AzureFrameworkPOC.AI\\Tools\\ArchitectureToolFactory.cs",
-              "RelativeDocumentMoniker": "src\\AzureFrameworkPOC.AI\\Tools\\ArchitectureToolFactory.cs",
-              "ToolTip": "C:\\Users\\2409486\\Repositories\\AzureFrameworkPOC\\src\\AzureFrameworkPOC.AI\\Tools\\ArchitectureToolFactory.cs",
-              "RelativeToolTip": "src\\AzureFrameworkPOC.AI\\Tools\\ArchitectureToolFactory.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAswAsAAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-09T10:34:24.439Z",
               "EditorCaption": ""
             },
             {

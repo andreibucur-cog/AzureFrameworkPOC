@@ -29,11 +29,6 @@ public sealed class ConsoleApplication(
             "Selected repository: {RepositoryPath}",
             repository.RootPath);
 
-        IArchitectureExplorer agentExplorer =
-            explorers.Single(
-                explorer =>
-                    explorer.Type == options.Approach);
-
         System.Console.WriteLine();
         System.Console.Write(
             "Architecture question: ");
@@ -47,17 +42,49 @@ public sealed class ConsoleApplication(
                 "An architecture question is required.");
         }
 
-        ExplorerResult result =
-            await agentExplorer.ExploreAsync(
-                new ArchitectureQuestion(questionText),
-                cancellationToken);
+        if (options.Approach != ExplorerType.Compare)
+        {
+            IArchitectureExplorer explorer =
+            explorers.Single(
+                explorer =>
+                    explorer.Type == options.Approach);
 
-        System.Console.WriteLine();
-        System.Console.WriteLine("AGENT RESULT");
-        System.Console.WriteLine("============");
-        System.Console.WriteLine(result.Answer.Summary);
-        System.Console.WriteLine();
-        System.Console.WriteLine(
-            $"Duration: {result.Metrics.Duration}");
+            ExplorerResult result =
+                await explorer.ExploreAsync(
+                    new ArchitectureQuestion(questionText),
+                    cancellationToken);
+
+            System.Console.WriteLine();
+            System.Console.WriteLine($"{explorer.Type} RESULT");
+            System.Console.WriteLine("============");
+            System.Console.WriteLine(result.Answer.Summary);
+            System.Console.WriteLine();
+            System.Console.WriteLine(
+                $"Duration: {result.Metrics.Duration}");
+        }
+        else
+        {
+            foreach (IArchitectureExplorer explorer in
+             explorers.OrderBy(item => item.Type))
+                {
+                    System.Console.WriteLine();
+                    System.Console.WriteLine(
+                        $"Running {explorer.Type}...");
+
+                    ExplorerResult result =
+                        await explorer.ExploreAsync(
+                            new ArchitectureQuestion(questionText),
+                            cancellationToken);
+
+                System.Console.WriteLine();
+                System.Console.WriteLine($"{explorer.Type} RESULT");
+                System.Console.WriteLine("============");
+                System.Console.WriteLine(result.Answer.Summary);
+                System.Console.WriteLine();
+                System.Console.WriteLine(
+                    $"Duration: {result.Metrics.Duration}");
+            }
+        }
+        
     }
 }

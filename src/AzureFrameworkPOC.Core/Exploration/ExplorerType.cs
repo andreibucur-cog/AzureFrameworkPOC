@@ -4,5 +4,6 @@ public enum ExplorerType
 {
     Agent,
     Workflow,
-    Harness
+    Harness,
+    Compare
 }
