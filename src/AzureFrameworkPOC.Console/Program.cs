@@ -13,7 +13,8 @@ builder.Services.AddRepositoryExploration(
     builder.Configuration);
 
 builder.Services.AddTransient<ConsoleApplication>();
-builder.Services.AddApproaches();
+builder.Services.AddApproaches(
+    builder.Configuration);
 
 using IHost host = builder.Build();
 

@@ -1,10 +1,12 @@
 ﻿using AzureFrameworkPOC.Core.AI;
+using AzureFrameworkPOC.Core.Exploration;
 
 namespace AzureFrameworkPOC.Console;
 
 public sealed record CommandLineOptions(
     string RepositoryPath,
-    ChatProviderType Provider)
+    ChatProviderType Provider,
+    ExplorerType Approach)
 {
     public static CommandLineOptions Parse(
         IReadOnlyList<string> args)
@@ -13,6 +15,9 @@ public sealed record CommandLineOptions(
 
         var provider =
             ChatProviderType.FoundryLocal;
+
+        var approach =
+            ExplorerType.Agent;
 
         for (var index = 0; index < args.Count; index++)
         {
@@ -42,6 +47,22 @@ public sealed record CommandLineOptions(
 
                     break;
 
+                case "--approach":
+                case "-a":
+                    string approachValue =
+                        ReadValue(args, ref index, argument);
+
+                    if (!Enum.TryParse(
+                            approachValue,
+                            ignoreCase: true,
+                            out approach))
+                    {
+                        throw new ArgumentException(
+                            $"Unknown approach: {approachValue}");
+                    }
+
+                    break;
+
                 case "--help":
                 case "-h":
                     PrintHelp();
@@ -58,7 +79,8 @@ public sealed record CommandLineOptions(
 
         return new CommandLineOptions(
             repositoryPath,
-            provider);
+            provider,
+            approach);
     }
 
     private static string ReadValue(
@@ -107,10 +129,14 @@ public sealed record CommandLineOptions(
                   FoundryLocal, OpenAI or AzureOpenAI.
                   Only FoundryLocal is implemented initially.
 
+              --approach, -a <approach>
+                  Agent, Workflow or Harness.
+
             Example:
 
               dotnet run --repository "C:\Projects\MyProject" \
-                  --provider FoundryLocal
+                  --provider FoundryLocal \
+                  --approach Agent
             """);
     }
 }

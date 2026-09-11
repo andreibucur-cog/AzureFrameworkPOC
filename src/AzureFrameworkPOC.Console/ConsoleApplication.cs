@@ -32,7 +32,7 @@ public sealed class ConsoleApplication(
         IArchitectureExplorer agentExplorer =
             explorers.Single(
                 explorer =>
-                    explorer.Type == ExplorerType.Agent);
+                    explorer.Type == options.Approach);
 
         System.Console.WriteLine();
         System.Console.Write(
